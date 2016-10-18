@@ -109,6 +109,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //Method for Button to play the game again
+
     public void playAgain(View view) {
 
         gameIsActive = true;
